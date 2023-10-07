@@ -1,0 +1,36 @@
+ 
+section{
+
+
+ background-color: rgba(200, 200, 200, .7) 
+}
+body {
+  background-image: url(assets/beautiful-greenery-landscape-cl.jpg);
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-color: aqua;
+}
+
+img{
+  height: 200px;
+  width :200px;
+}
+h1{
+  text-align:  center;
+}
+#home{
+ text-align: center;
+
+}     
+
+#img-2 {
+  border-radius: 100%;
+}
+main {
+  width:  80%;
+  margin-inline: auto;
+
+}
+p{
+  font-size: 30px;
+}
